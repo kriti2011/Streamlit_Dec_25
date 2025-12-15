@@ -17,4 +17,3 @@ elif genre=="Drama":
 else:
     st.write("Documentaries are so informative!")
 
-    
